@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1065904503682",
+    "firebase_url": "https://travelmantics-edd93.firebaseio.com",
+    "project_id": "travelmantics-edd93",
+    "storage_bucket": "travelmantics-edd93.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065904503682:android:11eebc6d5e8e115d",
+        "android_client_info": {
+          "package_name": "rabiu.com.travelmantics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065904503682-n6ldjr5431h1a41h8m0h89f0409id7oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQdnrd_tVOcurffGWGMuPTB6ImGE4Xb2c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065904503682-n6ldjr5431h1a41h8m0h89f0409id7oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
